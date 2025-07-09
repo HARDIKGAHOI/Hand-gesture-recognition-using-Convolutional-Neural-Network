@@ -30,4 +30,3 @@ jupyter notebook hand_gesture_recognition.ipynb
 
 ->Dataset
 The model is trained on a dataset of ASL hand gestures represented as 28×28 grayscale images.  
-*Note: you may need to download or link your dataset separately if it's not included.*
